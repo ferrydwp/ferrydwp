@@ -1,16 +1,122 @@
-## Hi there 👋
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7E400&background=FFFFFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+BRIAN+RIAN+REHAN"></h1>
 
-<!--
-**ferrydwp/ferrydwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate JavaScript developer from Indonesia</h3>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ferrydwp&label=Profile%20views&color=0e75b6&style=flat" alt="Ferrydwp" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ferrydwp&theme=tokyonight" alt="Ferrydwp" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/Ferrydwp" target="blank"><img src="https://img.shields.io/twitter/follow/Ferrydwp?logo=twitter&style=for-the-badge" alt="Ferrydwp" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ferrydwp" height="30" width="40" /></a>
+<a href="https://kaggle.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ferrydwp" height="30" width="40" /></a>
+<a href="https://fb.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ferrydwp" height="30" width="40" /></a>
+<a href="https://instagram.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ferrydwp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ferrydwp" height="30" width="40" /></a>
+<a href="/Ferrydwp.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Ferrydwp.com" height="30" width="40" /></a>
+</p>
+
+## Languages and Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+      <br>ESLint
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+      <br>Prettier
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+ </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
+      <br>Sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" />
+      <br>Sequelize
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+ </tr>
+</table>
+
+<h1 align="center">Github Stats</h1>
+<p align="center">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferrydwp&show_icons=true&layout=compact&theme=tokyonight" alt="arfindwio" />
+<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=Ferrydwp&show_icons=true&theme=tokyonight&layout=compact" />
+</p>
+<br>
+<br>
