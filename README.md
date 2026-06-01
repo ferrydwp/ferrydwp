@@ -12,11 +12,8 @@
 <p align="left">
 <a href="https://twitter.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ferrydwp" height="30" width="40" /></a>
 <a href="https://kaggle.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ferrydwp" height="30" width="40" /></a>
-<a href="https://fb.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ferrydwp" height="30" width="40" /></a>
 <a href="https://instagram.com/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ferrydwp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Ferrydwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ferrydwp" height="30" width="40" /></a>
-<a href="/Ferrydwp.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Ferrydwp.com" height="30" width="40" /></a>
-</p>
+
 
 ## Languages and Tools
 
@@ -25,10 +22,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -85,18 +78,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
-      <br>Sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" />
-      <br>Sequelize
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      <br>Prisma
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
